@@ -1,0 +1,17 @@
+[08/Jul/2019:18:04:24] (ℹ️): WordPress Instance Info:
+[08/Jul/2019:18:04:24] (ℹ️): Home URL : http://localhost/backend
+[08/Jul/2019:18:04:24] (ℹ️): Site URL : http://localhost/backend
+[08/Jul/2019:18:04:24] (ℹ️): WordPress Version : 5.1.1
+[08/Jul/2019:18:04:24] (ℹ️): Onboarding Version : 1.4.1
+[08/Jul/2019:18:04:24] (ℹ️): Multisite : No
+[08/Jul/2019:18:04:24] (ℹ️): Server Info : Apache/2.4.37 (Win32) OpenSSL/1.1.1a PHP/7.3.1
+[08/Jul/2019:18:04:24] (ℹ️): PHP Version : 7.3.1
+[08/Jul/2019:18:04:24] (ℹ️): HTTPS : No
+[08/Jul/2019:18:04:24] (ℹ️): PHP Max Execution Time : 30
+[08/Jul/2019:18:04:24] (ℹ️): PHP Max Input Vars : 1000
+[08/Jul/2019:18:04:24] (ℹ️): Max Upload Size : 8388608
+[08/Jul/2019:18:04:24] (ℹ️): Plugins:
+[08/Jul/2019:18:04:24] (ℹ️): [PLUGIN] Better REST API Featured Images : v1.2.1 (Braad Martin)
+[08/Jul/2019:18:04:24] (ℹ️): [PLUGIN] Max Mega Menu : v2.7.1.4 (megamenu.com)
+[08/Jul/2019:18:04:24] (ℹ️): [PLUGIN] ACF Photo Gallery Field : v1.6.4 (Navneil Naicker)
+[08/Jul/2019:18:04:24] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)

@@ -1,0 +1,12 @@
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^index\.html$ - [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule . /index.html [L]	
+	RewriteCond %{THE_REQUEST} \.html
+    RewriteRule ^(.*)\.html$ /$1 [R=301,L]
+	Redirect 301 /oferta.html /oferta
+    Redirect 301 /kontakt.html /kontakt
+	Redirect 301 /galeria.html /galeria
+	Redirect 301 /o-nas.html /o-nas
